@@ -1,0 +1,4 @@
+KDE4_EXTRAGEAR_VERSION=4.3.3
+inherit kde4
+
+DESCRIPTION="KDE image viewer"

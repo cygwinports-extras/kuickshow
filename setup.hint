@@ -1,0 +1,10 @@
+category: Graphics KDE
+requires: libgcc1 libImlib1 libkdecore5 libQtCore4 libQtGui4 libstc++6 libX11_6
+sdesc: "KDE image viewer"
+ldesc: "KuickShow is an image viewer for KDE. It starts up with a folder 
+view allowing for browsing of local and remote folders. From there you 
+can display images, either in a separate window or in full screen mode. 
+You can quickly switch to the next or previous image in the same 
+directory. Images are automatically scaled to the best possible display 
+size, and rotated if the EXIF orientation tag is present. Alternatively 
+you can rotate or flip them easily."
