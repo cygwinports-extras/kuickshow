@@ -1,0 +1,16 @@
+inherit kde4
+
+NAME="kuickshow"
+VERSION=0.9.1
+RELEASE=1
+CATEGORY="Graphics"
+SUMMARY="KDE Imlib-based image viewer"
+DESCRIPTION="KuickShow is an image viewer for KDE. It starts up with a folder
+view allowing for browsing of local and remote folders. From there you can
+display images, either in a separate window or in full screen mode. You can
+quickly switch to the next or previous image in the same directory. Images are
+automatically scaled to the best possible display size, and rotated if the
+EXIF orientation tag is present. Alternatively you can rotate or flip them
+easily."
+SRC_URI="mirror://kde/stable/extragear/kuickshow-${VERSION}-kde4.4.0.tar.bz2"
+SRC_DIR="kuickshow-${VERSION}-kde4.4.0"
